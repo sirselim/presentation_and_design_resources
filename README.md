@@ -10,7 +10,7 @@ This repository is intended to stimulate interest and awareness in the design as
 Planning your poster before actually sitting down and working on the computer saves a lot of time later on, and will almost always lead to a better looking final product.  Reading others experiences and taking on board tips and tricks allows you to expand your repertoire and should make the process more enjoyable.
 
 * Betterposters – http://betterposters.blogspot.com/
-> *“Academics use posters to present research, but their posters are often ugly, with tiny text, confusing layouts, and dubious colour schemes. Better Posters is about making posters informative and beautiful.”*
+>   *“Academics use posters to present research, but their posters are often ugly, with tiny text, confusing layouts, and dubious colour schemes. Better Posters is about making posters informative and beautiful.”*
 
 There is also a really nice write up here about conference posters:
 
@@ -20,7 +20,7 @@ There is also a really nice write up here about conference posters:
 
 Your choice of software can make life much easier (or harder!), so spend some time thinking about what it is you are trying to achieve.
 
-### Open source software (free software) 
+### Open source software (free software)
 
 These programs can be freely downloaded and installed on any computer (windows, mac, linux), there are numerous tutorials and helpful forums and mailing lists to get you started.  Both Inkscape and Scribus have rich tool sets and can be used to produce results which rival those of the “professional” packages – all for free!
 
@@ -63,6 +63,7 @@ There are some really nice online tools to generate great looking colour schemes
 Know your measurements.  It is important to know what size of paper your final poster will be printed on – and you should determine this before you start!  All software packages will allow you to set up page size – it is also import to determine which units you will be working in (I find mm the easiest and set this before I start).
 
 Paper size charts:
+
     • http://en.wikipedia.org/wiki/Paper_size
     • http://www.printing.ie/media/images/a-size.gif
 
@@ -71,7 +72,7 @@ Paper size charts:
 Looking at others work and critically evaluating it is a great way to learn – think about what is done well, what could be improved upon?  Create a list of techniques and attributes of posters that you could possibly employ into your own design.
 
 Scientific Poster Repository
-    • http://posters.f1000.com/
+    • https://f1000research.com/browse/posters
 
 Google Image Search – is a great place to view and critique many examples of poster design (be they scientific or otherwise).  Use search strings such as poster design, scientific poster design, etc etc.
 
