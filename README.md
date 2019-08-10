@@ -24,6 +24,7 @@ Many people would have heard of Abobe Photoshop – well they also make design s
 * Adobe - http://www.adobe.com/downloads/
   * Indesign
   * Illustrator
+  * Photoshop
 * Microsoft Publisher – if you have MS Office you most likely have Publisher.
 
 And then there’s...
@@ -40,3 +41,20 @@ There are some really nice online tools to generate great looking colour schemes
   * new site using deep-learning, can import an image and generate a colour scheme 
 * [paletton.com](https://paletton.com/)
   * an older site but still quite useful if the 2 above don't suit you
+
+## Paper sizing
+
+Know your measurements.  It is important to know what size of paper your final poster will be printed on – and you should determine this before you start!  All software packages will allow you to set up page size – it is also import to determine which units you will be working in (I find mm the easiest and set this before I start).
+
+Paper size charts:
+    • http://en.wikipedia.org/wiki/Paper_size
+    • http://www.printing.ie/media/images/a-size.gif
+
+## Some examples
+
+Looking at others work and critically evaluating it is a great way to learn – think about what is done well, what could be improved upon?  Create a list of techniques and attributes of posters that you could possibly employ into your own design.
+
+Scientific Poster Repository
+    • http://posters.f1000.com/
+
+Google Image Search – is a great place to view and critique many examples of poster design (be they scientific or otherwise).  Use search strings such as poster design, scientific poster design, etc etc.
