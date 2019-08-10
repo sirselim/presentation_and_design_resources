@@ -58,3 +58,13 @@ Scientific Poster Repository
     • http://posters.f1000.com/
 
 Google Image Search – is a great place to view and critique many examples of poster design (be they scientific or otherwise).  Use search strings such as poster design, scientific poster design, etc etc.
+
+## Having fun
+
+Remember there is no right or wrong way to design a poster; everyone has different tastes and preferences.  
+
+* Life is much easier when you have all the elements of your poster ready before you start working in your chosen software.  Have the bulk of your text written, have your figures ready, and grab a pencil and sketch out some possible layouts.
+* Don’t be afraid to play around with your design, try something and see if it works.  Bounce ideas of people and ask them to comment on your ideas and designs.  
+* Try to limit the amount of text on your poster, get your point across in a succinct way that will invite interested parties to ask further questions. 
+
+Mainly remember to enjoy yourself – you’ve done all the hard work in the clinic/lab/research, now it’s time to present this to others. Have fun with it and try to get your ideas and results across in a way that grabs the audience and makes sense.
