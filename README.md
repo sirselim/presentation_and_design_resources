@@ -14,7 +14,7 @@ Planning your poster before actually sitting down and working on the computer sa
 
 There is also a really nice write up here about conference posters:
 
-* [How to create an award wining conference poster](https://www.google.co.nz/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwjXwJrDm_fjAhXb6nMBHeY4AToQFjABegQIAhAB&url=https%3A%2F%2Fblogs.lse.ac.uk%2Fimpactofsocialsciences%2F2018%2F05%2F11%2Fhow-to-design-an-award-winning-conference-poster%2F&usg=AOvVaw0IsaBB_tlmnMiRjnzbQ7Xr)
+* [How to create an award wining conference poster](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/11/how-to-design-an-award-winning-conference-poster/)
 
 ## Software
 
