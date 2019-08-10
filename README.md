@@ -64,8 +64,8 @@ Know your measurements.  It is important to know what size of paper your final p
 
 Paper size charts:
 
-    • http://en.wikipedia.org/wiki/Paper_size
-    • http://www.printing.ie/media/images/a-size.gif
+* http://en.wikipedia.org/wiki/Paper_size
+* http://www.printing.ie/media/images/a-size.gif
 
 ## Some examples
 
