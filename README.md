@@ -17,6 +17,11 @@ These programs can be freely downloaded and installed on any computer (windows, 
 * [Scribus](http://www.scribus.net/)
 * [Open Office Draw(http://www.openoffice.org.nz/)]
 
+There are also free online tools:
+
+* [Gravit Designer](https://www.designer.io/en/)
+* [Vectr](https://vectr.com/)
+
 ### “Professional” Software (not free)
 
 Many people would have heard of Abobe Photoshop – well they also make design software in the same vein.  Both Indesign and Illustrator are industry standards – as such they come at a price.  30 day trials may be downloaded if you want to play with them.
@@ -58,6 +63,16 @@ Scientific Poster Repository
     • http://posters.f1000.com/
 
 Google Image Search – is a great place to view and critique many examples of poster design (be they scientific or otherwise).  Use search strings such as poster design, scientific poster design, etc etc.
+
+## Sources of images/pictures
+
+There are lots of neat places to grab open-access / open-license pictures and images that may be freely used, edited and shared.
+
+* [Pixabay](https://pixabay.com/)
+* [Unsplash](https://unsplash.com/)
+* [Pexels](https://www.pexels.com/)
+* [Canva](https://www.canva.com/photos/free/)
+* [Google image search](https://www.google.co.nz/imghp?hl=en&tab=wi&ogbl)
 
 ## Having fun
 
