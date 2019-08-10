@@ -10,7 +10,7 @@ This repository is intended to stimulate interest and awareness in the design as
 Planning your poster before actually sitting down and working on the computer saves a lot of time later on, and will almost always lead to a better looking final product.  Reading others experiences and taking on board tips and tricks allows you to expand your repertoire and should make the process more enjoyable.
 
 * Betterposters – http://betterposters.blogspot.com/
->*“Academics use posters to present research, but their posters are often ugly, with tiny text, confusing layouts, and dubious colour schemes. Better Posters is about making posters informative and beautiful.”*
+> *“Academics use posters to present research, but their posters are often ugly, with tiny text, confusing layouts, and dubious colour schemes. Better Posters is about making posters informative and beautiful.”*
 
 There is also a really nice write up here about conference posters:
 
@@ -26,7 +26,7 @@ These programs can be freely downloaded and installed on any computer (windows, 
 
 * [Inkscape](http://www.inkscape.org/)
 * [Scribus](http://www.scribus.net/)
-* [Open Office Draw(http://www.openoffice.org.nz/)]
+* [Open Office Draw](http://www.openoffice.org.nz/)
 
 There are also free online tools:
 
