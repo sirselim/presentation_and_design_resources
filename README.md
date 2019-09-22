@@ -1,8 +1,10 @@
 # Presentation and design resources
 A small repository to hold useful resources for various courses I teach.
 
-Scan to access this repo:
-<img src="https://i.imgur.com/Wa14BZ9.png" alt="qr code" height="150" width="150">
+Scan to access this repo:  
+<p>
+<img src="https://i.imgur.com/Wa14BZ9.png" alt="qr code" height="350" width="350">
+</p>
 
 ## About
 
