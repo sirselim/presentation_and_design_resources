@@ -1,7 +1,7 @@
 # Presentation and design resources
 A small repository to hold useful resources for various courses I teach.
 
-![github qr access](https://imgur.com/Wa14BZ9)
+![github qr access](https://i.imgur.com/Wa14BZ9.png)
 
 ## About
 
