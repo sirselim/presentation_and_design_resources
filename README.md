@@ -30,6 +30,7 @@ Your choice of software can make life much easier (or harder!), so spend some ti
 These programs can be freely downloaded and installed on any computer (windows, mac, linux), there are numerous tutorials and helpful forums and mailing lists to get you started.  Both Inkscape and Scribus have rich tool sets and can be used to produce results which rival those of the “professional” packages – all for free!
 
 * [Inkscape](http://www.inkscape.org/)
+  * see below for a list of suggested tutorials 
 * [Scribus](http://www.scribus.net/)
 * [Open Office Draw](http://www.openoffice.org.nz/)
 
@@ -112,6 +113,31 @@ There are lots of neat places to grab open-access / open-license pictures and im
 ## QRcodes
 
 * [QRcode Monkey](https://www.qrcode-monkey.com/)
+
+## Inkscape tutorials
+
+In addition to the 2 hour workshop that I run I'll try to maintain a decent list of extra tutorials that 
+
+### Official Lessons/Tutorials
+
+Tutorials from the Inkscape homepage:
+
+* [Official Tutorials](https://inkscape.org/learn/tutorials/)
+
+Lessons and frequently asked questions from the Inkscape homepage:
+
+* [Learning Inkscape](https://inkscape.org/learn/)
+
+### Community Video tutorials
+
+A great series on YouTube by user [TJFree](https://www.youtube.com/channel/UCx-ljiKQcLSd8_4AFi_yaIw), each lesson is around about the 10-20 min mark. Here is a link to the whole series ([link](https://www.youtube.com/playlist?list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv)), I'll include the first 6 below and once you get a feel for whether these are useful you can feel free to browse the others - there are ~32 videos in total!
+
+* [Inkscape Lesson 1 - Interface and Basic Drawing](https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv)
+* [Inkscape Lesson 2 - Shape Tools and Options](https://www.youtube.com/watch?v=LEjlKhVnJgU)
+* [Inkscape Lesson 3 - Fill and Stroke Settings](https://www.youtube.com/watch?v=o86MLSQHtMg)
+* [Inkscape Lesson 4 - Groups, Levels, and Object Selection](https://www.youtube.com/watch?v=D_53Cb9aR0c)
+* [Inkscape Lesson 5 - Document Properties and Exporting PNG Images](https://www.youtube.com/watch?v=67-UDoYZG8U)
+* [Inkscape Lesson 6 - Text and Fonts](https://www.youtube.com/watch?v=W9y_D90L8Jo)
 
 ## Having fun
 
