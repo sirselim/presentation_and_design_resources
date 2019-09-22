@@ -16,6 +16,11 @@ There is also a really nice write up here about conference posters:
 
 * [How to create an award wining conference poster](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/11/how-to-design-an-award-winning-conference-poster/)
 
+Some other interesting reads:
+
+* [Designing conference posters](https://colinpurrington.com/tips/poster-design/)
+* [How to design an effective scientific poster](http://www.planetary.org/blogs/guest-blogs/design-sci-poster.html)
+
 ## Software
 
 Your choice of software can make life much easier (or harder!), so spend some time thinking about what it is you are trying to achieve.
@@ -57,6 +62,7 @@ There are some really nice online tools to generate great looking colour schemes
   * new site using deep-learning, can import an image and generate a colour scheme 
 * [paletton.com](https://paletton.com/)
   * an older site but still quite useful if the 2 above don't suit you
+* [Cloudflare Design](https://cloudflare.design/color/) 
 
 ## Paper sizing
 
@@ -77,6 +83,15 @@ Scientific Poster Repository
 
 Google Image Search – is a great place to view and critique many examples of poster design (be they scientific or otherwise).  Use search strings such as poster design, scientific poster design, etc etc.
 
+## The changing world of [scientific] conference posters
+
+* [A Graphic Design Revolution For Scientific Conference Posters](https://www.forbes.com/sites/evaamsen/2019/06/18/a-graphic-design-revolution-for-scientific-conference-posters/#4963bb81297c)
+  * [Better Scientific Posters](https://osf.io/ap6f4/)
+  * [Butterposters](https://derekcrowe.net/butterposter)
+* [Do Academic and Scientific Conference Posters Need a Drastic Change?](https://www.echorivera.com/blog/better-posters-recommendation)
+  * an extremely good read with interesting insight. 
+* [Designscience blog](https://descienceblog.tumblr.com/search/poster)
+
 ## Sources of images/pictures
 
 There are lots of neat places to grab open-access / open-license pictures and images that may be freely used, edited and shared.
@@ -86,6 +101,17 @@ There are lots of neat places to grab open-access / open-license pictures and im
 * [Pexels](https://www.pexels.com/)
 * [Canva](https://www.canva.com/photos/free/)
 * [Google image search](https://www.google.co.nz/imghp?hl=en&tab=wi&ogbl)
+
+## Fonts
+
+* [Practical Typography](https://practicaltypography.com/free-fonts.html)
+  * [Font recommendations](https://practicaltypography.com/font-recommendations.html) 
+* [Type Wolf](https://www.typewolf.com/)
+* [Font Squirrel](https://www.fontsquirrel.com/)
+
+## QRcodes
+
+* [QRcode Monkey](https://www.qrcode-monkey.com/)
 
 ## Having fun
 
