@@ -30,6 +30,7 @@ Your choice of software can make life much easier (or harder!), so spend some ti
 These programs can be freely downloaded and installed on any computer (windows, mac, linux), there are numerous tutorials and helpful forums and mailing lists to get you started.  Both Inkscape and Scribus have rich tool sets and can be used to produce results which rival those of the “professional” packages – all for free!
 
 * [Inkscape](http://www.inkscape.org/)
+  * Inkscape is the software I teach various courses with and I recommend it. There is a little bit of a learning curve but it is worth the price of admission in my opinion. 
   * see below for a list of suggested tutorials 
 * [Scribus](http://www.scribus.net/)
 * [Open Office Draw](http://www.openoffice.org.nz/)
