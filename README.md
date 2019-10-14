@@ -113,6 +113,8 @@ There are lots of neat places to grab open-access / open-license pictures and im
 
 ## Fonts
 
+* [Google Fonts](https://fonts.google.com/)
+* [Font Library](https://fontlibrary.org/)
 * [Practical Typography](https://practicaltypography.com/free-fonts.html)
   * [Font recommendations](https://practicaltypography.com/font-recommendations.html) 
 * [Type Wolf](https://www.typewolf.com/)
@@ -146,6 +148,18 @@ A great series on YouTube by user [TJFree](https://www.youtube.com/channel/UCx-l
 * [Inkscape Lesson 4 - Groups, Levels, and Object Selection](https://www.youtube.com/watch?v=D_53Cb9aR0c)
 * [Inkscape Lesson 5 - Document Properties and Exporting PNG Images](https://www.youtube.com/watch?v=67-UDoYZG8U)
 * [Inkscape Lesson 6 - Text and Fonts](https://www.youtube.com/watch?v=W9y_D90L8Jo)
+
+A random assortment of other useful links:
+
+* Designing posters with Krita, Scribus, and Inkscape: https://opensource.com/article/19/4/design-posters
+* Creating a Science Conference Poster with Inkscape: https://dionhaefner.github.io/2015/07/creating-a-science-conference-poster-with-inkscape/
+* Making a poster in Inkscape: http://bethmcmillan.com/blog/?p=1592
+* Welcome and creating a scientific poster: http://huttenhower.org/welcome-and-creating-scientific-poster
+* Inkscape poster template: http://greg-stacey.squarespace.com/extracurricular/2016/7/24/inkscape-poster-template
+  * GregStacey/InkscapePoster - Inkscape poster template: https://github.com/GregStacey/InkscapePoster
+* 10 simple rules for designing a scientific poster: https://www.molecularecologist.com/2016/06/10-simple-rules-for-designing-a-scientific-poster/
+
+...and finally for something a little different I'd like to link one of the most amazing and creative scientific posters I've come across: https://twitter.com/Ecology_forlife/status/1161726100147507201?s=03
 
 ## Having fun
 
