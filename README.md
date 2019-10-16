@@ -90,7 +90,11 @@ Scientific Poster Repository
 
 * https://f1000research.com/browse/posters
 
-Google Image Search – is a great place to view and critique many examples of poster design (be they scientific or otherwise).  Use search strings such as poster design, scientific poster design, etc etc.
+VISUALIZING BIOLOGICAL DATA VIZBI - posters
+
+* http://vizbi.org/Posters/
+
+Additionally: Google Image Search – is a great place to view and critique many examples of poster design (be they scientific or otherwise).  Use search strings such as poster design, scientific poster design, etc etc.
 
 ## The changing world of [scientific] conference posters
 
