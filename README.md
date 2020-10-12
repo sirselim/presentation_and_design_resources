@@ -73,6 +73,10 @@ There are some really nice online tools to generate great looking colour schemes
   * an older site but still quite useful if the 2 above don't suit you
 * [Cloudflare Design](https://cloudflare.design/color/) 
 
+### Quick guide to import Coolors palette into Inkscape
+
+I've been asked how to do this a few times so I have created a quick guide with screenshots that will hopefully help explain the process. Please find the steps [here](https://hackmd.io/@Miles/BkpyRqWww).
+
 ## Paper sizing
 
 Know your measurements.  It is important to know what size of paper your final poster will be printed on – and you should determine this before you start!  All software packages will allow you to set up page size – it is also import to determine which units you will be working in (I find mm the easiest and set this before I start).
