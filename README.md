@@ -171,7 +171,7 @@ A random assortment of other useful links:
 
 ## Quick guides (by Miles)
 
-* Importing coolors palettes into Inkscape: ([link](https://hackmd.io/WMk3GdL-Tve-xRcQfIgGSQ))
+* Importing coolors palettes into Inkscape: ([link](https://hackmd.io/@Miles/BkpyRqWww))
 * Creating borders around objects (the 'cheats' way): ([link](https://hackmd.io/@Miles/ryPevN4Dw))
 
 ## Having fun
