@@ -169,6 +169,11 @@ A random assortment of other useful links:
 
 ...and finally for something a little different I'd like to link one of the most amazing and creative scientific posters I've come across: https://twitter.com/Ecology_forlife/status/1161726100147507201?s=03
 
+## Quick guides (by Miles)
+
+* Importing coolors palettes into Inkscape: ([link](https://hackmd.io/WMk3GdL-Tve-xRcQfIgGSQ))
+* Creating borders around objects (the 'cheats' way): ([link](https://hackmd.io/@Miles/ryPevN4Dw))
+
 ## Having fun
 
 Remember there is no right or wrong way to design a poster; everyone has different tastes and preferences.  
